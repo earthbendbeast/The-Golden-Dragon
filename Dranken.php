@@ -1,7 +1,6 @@
 <?php
 include "inc/header.php";
 ?>
-
 <link rel="stylesheet" type="text/css" href="css\style.css">
 <main class="main2">
   <section class="menu-container">
@@ -64,7 +63,6 @@ include "inc/header.php";
 
   </section>
 </main>
-
 <?php
 include "inc/Footer.php";
 ?>
