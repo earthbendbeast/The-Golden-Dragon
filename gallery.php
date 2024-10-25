@@ -14,6 +14,5 @@ include "inc/header.php";
 <?php
 include "inc/Footer.php";
 ?>
-
 </body>
 </html>
